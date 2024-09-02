@@ -1,7 +1,1 @@
-pandas
-numpy
-torch
-matplotlib
-scikit-learn
-yfinance
-pennylane
+
